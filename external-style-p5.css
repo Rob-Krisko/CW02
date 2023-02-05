@@ -1,0 +1,39 @@
+body {
+    background-color: chocolate;
+}
+h1 {
+    font-size: 14pt;
+}
+h2 {
+    font-size: 12pt;
+}
+.para1 {
+    font-family: Arial;
+    font-weight: bold;
+    color: moccasin;
+}
+.para2 {
+    font-family: arial;
+    font-weight: normal;
+    color: khaki;
+}
+.para3 {
+    font-family: arial;
+    font-weight: bold;
+    color: ivory;
+}
+.para4 {
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    color: gold;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.para5 {
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    font-style: italic;
+    color: gold;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
